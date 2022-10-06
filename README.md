@@ -39,5 +39,6 @@ Sou desenvolvedor front end Jr, graduado em Análise e desenvolvimento de sistem
 
 
 <div align="center">
-  <a href="https://github.com/mayconcabral077/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconcabral077&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/mayconcabral077/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCabral077&layout=compact&theme=buefy&hide_border=true"/></a>
+  <a href="https://github.com/mayconcabral077/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconcabral077&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  
+  <a href="https://github.com/mayconcabral077/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconCabral077&layout=compact&theme=buefy&hide_border=true"/></a>
 </div>
