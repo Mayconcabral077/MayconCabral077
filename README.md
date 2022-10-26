@@ -13,6 +13,7 @@ Sou desenvolvedor front end Jr, graduado em Análise e desenvolvimento de sistem
   <img align="center" alt="Mk-bootstrap" height="30" width="40" src="https://files.brandlogos.net/svg/PjKl3aKXeF/bootstrap-logo-5247297pJQ_brandlogos.net.svg">
   <img align="center" alt="Mk-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mk-nodejs" height="55" width="55" src="https://brandlogos.net/wp-content/uploads/2015/09/nodejs-logo-vector-download-400x400.jpg">
+  <img align="center" alt="Mk-npm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Mk-express" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" >
   <img align="center" alt="Mk-git" height="55" width="55" src="https://files.brandlogos.net/svg/WMXi7xYVyY/Git-OYS4j0t30_brandlogos.net.svg">
   <img align="center" alt="Mk-vscode" height="30" width="40" src="https://files.brandlogos.net/svg/PjKl3aKXeF/visual-studio-code-logo-QsoXWVfe_brandlogos.net.svg">
