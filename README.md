@@ -14,7 +14,8 @@ Sou desenvolvedor front end Jr, graduado em Análise e desenvolvimento de sistem
   <img align="center" alt="Mk-nodejs" height="55" width="55" src="https://brandlogos.net/wp-content/uploads/2015/09/nodejs-logo-vector-download-400x400.jpg">
   <img align="center" alt="Mk-npm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Mk-express" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="Mk-Sqlite" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+  <img align="center" alt="Mk-mysql" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+   <img align="center" alt="Mk-sqlserver" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Mk-git" height="55" width="55" src="https://files.brandlogos.net/svg/WMXi7xYVyY/Git-OYS4j0t30_brandlogos.net.svg">
   <img align="center" alt="Mk-vscode" height="30" width="40" src="https://files.brandlogos.net/svg/PjKl3aKXeF/visual-studio-code-logo-QsoXWVfe_brandlogos.net.svg">
 
@@ -28,7 +29,7 @@ Sou desenvolvedor front end Jr, graduado em Análise e desenvolvimento de sistem
 <br>
 <div>  
     <a href="http://www.devmaycon.com.br/" target="_blank"> <img src="https://img.shields.io/badge/Portifolio-2962FF?style=for-the-badge&logo=Color=white"></a>
- <a href = "mailto:contato.devmaycon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:cbmaycon77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayconcabral77" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://instagram.com/mayconcabral77" target="_blank"><img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
