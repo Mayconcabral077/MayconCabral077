@@ -1,6 +1,6 @@
 # Seja bem vindo(a)🤟 
 
-Sou desenvolvedor front end Jr, graduado em Análise e desenvolvimento de sistemas pela Universidade Estácio de Sá do rio de janeiro, apaixonado por códigos, desafios, aprender novas tecnologias e criar networks! 😄
+Sou desenvolvedor front end, graduado em Análise e desenvolvimento de sistemas pela Universidade Estácio de Sá do rio de janeiro, apaixonado por códigos, desafios, aprender novas tecnologias e criar networks! 😄
 
 <br>
 
