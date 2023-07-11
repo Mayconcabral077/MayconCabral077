@@ -11,6 +11,8 @@ Sou desenvolvedor front end, graduado em Análise e desenvolvimento de sistemas 
   <img align="center" alt="Mk-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mk-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mk-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />   
+  <img align="center" alt="Mk-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
   <img align="center" alt="Mk-nodejs" height="55" width="55" src="https://brandlogos.net/wp-content/uploads/2015/09/nodejs-logo-vector-download-400x400.jpg">
   <img align="center" alt="Mk-npm" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Mk-express" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
